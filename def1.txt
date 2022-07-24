@@ -1,3 +1,7 @@
 first line
 second line
+<<<<<<< HEAD
 chinni
+=======
+third line
+>>>>>>> branch1
